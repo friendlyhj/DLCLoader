@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "DLCLoader",
+    "name": "DLCLoader",
+    "description": "Better than modloaded",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["youyihj"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
